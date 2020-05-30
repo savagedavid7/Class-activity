@@ -1,4 +1,4 @@
-# My name is David.
+# My name is David Savage
 
 I am Canadian, but I've lived in Hong Kong and Beijing as well. My professional background is in Asset Management.
 I've recently spent the past year studying Mandarin at the Beijing Language and Culture University. 
