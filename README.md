@@ -1,5 +1,48 @@
 # My name is David Savage
 
+## Images
+
+![example image](images/WP_INVEST.jpg)
+
+---
+
+## Description
+
+*italics*
+
+**bolding**
+
+---
+
+### Table of Contents
+
+* [code](code/)
+
+* [data](data/)
+
+* [images](images/)
+
+* [references](references/)
+
+* [link to google](https://www.google.com/)
+
+
+
+
+This is normal text
+
+`print(hello)`
+
+```
+print(hello)
+print(hi everyone)
+
+```
+
+> "hello class how are you"
+
+##Original Introduction
+
 I am Canadian, but I've lived in Hong Kong and Beijing as well. My professional background is in Asset Management.
 I've recently spent the past year studying Mandarin at the Beijing Language and Culture University. 
 I'm deeply interested in Fintech and particularly its application to investing, Macro analysis and portfolio management.
